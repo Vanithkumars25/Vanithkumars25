@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vanithkumars25@gmail.com**
 
-- ⚡ Fun fact **I believe data has stories to tell, and I'm here to tell them through code and visuals.**
+- ⚡ Fun fact - **I believe data has stories to tell, and I'm here to tell them through code and visuals.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
