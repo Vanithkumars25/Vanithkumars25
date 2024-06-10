@@ -21,7 +21,7 @@
 <!-- <a href="https://instagram.com/rohit.more____1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohit.more____1012" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠 &nbsp;Languages and Tools
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=power-bi&logoColor=F2C811)&nbsp;
