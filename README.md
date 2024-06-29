@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Vanith</h1>
-<h3 align="center">Passionate about Data Analysis 📈</h3>
+<h3 align="left">Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.</h3>
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vanithkumars25&label=Profile%20views&color=0e75b6&style=flat" alt="Vanithkumars25" /> </p> -->
